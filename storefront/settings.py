@@ -82,6 +82,7 @@ WSGI_APPLICATION = 'storefront.wsgi.application'
 
 
 # Database
+#sd
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
 DATABASES = {
@@ -90,7 +91,7 @@ DATABASES = {
         'NAME': 'storefront',
         'HOST': 'localhost',
         'USER': 'root',
-        'PASSWORD': 'MyPassword'
+        'PASSWORD': '22622262'
     }
 }
 
